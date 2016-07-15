@@ -6,8 +6,7 @@
 package metodos;
 
 /**
- *
- * @author GABRIELA
+ * @author GABRIELA ERREYES
  */
 public class Metodos {
 

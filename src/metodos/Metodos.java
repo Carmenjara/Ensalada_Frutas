@@ -18,7 +18,7 @@ public class Metodos {
     }
 
     static boolean obtenerMayor(int i, int i0) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+        throw new UnsupportedOperationException("Not supported yet...."); //To change body of generated methods, choose Tools | Templates.
     }
 
     static boolean obtenerMenor(int i, int i0) {
